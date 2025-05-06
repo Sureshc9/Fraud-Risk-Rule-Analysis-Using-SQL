@@ -6,8 +6,11 @@ A complete SQL-based framework for analyzing fraud trends, rule performance, and
 This repository contains SQL scripts and procedures that help monitor and analyze fraudulent transaction patterns using rule-based logic and model scores. By leveraging window functions, CTEs, and stored procedures, it supports dynamic fraud detection, ranking rules by performance, and comparing trends over time.
 
 # Dataset Overview:
+  
   •	Database: RISKREAD
-	•	Primary Table: TRANS_PERF
+
+  •	Primary Table: TRANS_PERF
+ 
   <img width="433" alt="Screenshot 2025-05-05 at 9 56 14 PM" src="https://github.com/user-attachments/assets/ab588d9a-8bfb-42f9-a49f-182898a90412" />
 
 # Schema Setup:
